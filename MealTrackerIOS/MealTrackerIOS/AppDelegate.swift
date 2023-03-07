@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  MealTrackerIOS
-//
-//  Created by kole ervine on 3/7/23.
-//
-
 import UIKit
 
 @main
